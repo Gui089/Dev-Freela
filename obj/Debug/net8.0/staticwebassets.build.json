@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AFAOQMF9SHWjofqNT36PGSuW91sGMazOUevX66dfLtU=",
+  "Hash": "Px6Pk4Dz1KnaeLzrwB76TerJR59xVO1yOcwuhn7v8Xw=",
   "Source": "DevFreela.Api",
   "BasePath": "_content/DevFreela.Api",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\guilh\\source\\repos\\DevFreela\\DevFreela.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DevFreela.Api.styles.css",
-      "SourceId": "DevFreela.Api",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\guilh\\source\\repos\\DevFreela\\DevFreela.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/DevFreela.Api",
-      "RelativePath": "DevFreela.Api.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\guilh\\source\\repos\\DevFreela\\DevFreela.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DevFreela.Api.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\guilh\\source\\repos\\DevFreela\\DevFreela.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DevFreela.Api.bundle.scp.css",
-      "SourceId": "DevFreela.Api",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\guilh\\source\\repos\\DevFreela\\DevFreela.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/DevFreela.Api",
-      "RelativePath": "DevFreela.Api.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\guilh\\source\\repos\\DevFreela\\DevFreela.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DevFreela.Api.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\guilh\\source\\repos\\DevFreela\\DevFreela.Api\\wwwroot\\css\\site.css",
       "SourceId": "DevFreela.Api",
